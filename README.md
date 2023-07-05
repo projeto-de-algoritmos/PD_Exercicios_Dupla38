@@ -1,45 +1,71 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios de algoritmo do tema Programação Dinâmica
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 38<br>
+**Conteúdo da Disciplina**: Programação Dinâmica <br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0142260  |  Mateus de Almeida Dias |
+| 19/0101792  |  Ana Carolina Rodrigues Leite |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto foi feito com a resolução de 4 exercícios abordando os temas de Programação Dinâmica, que incluem: (editar). Os exercícios foram retirados dos sites (editar) [Codeforces](https://codeforces.com/) e [Beecrowd](https://www.beecrowd.com.br/judge/pt/login).
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercicio 1 - ""
+
+**Nível do exercício:** 
+
+Para acessar a página do exercício [clique aqui]
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: <br>
+
+
+## Screenshots
+### Exercicio 2 - ""
+
+**Nível do exercício:** 
+
+Para acessar a página do exercício [clique aqui]
+
+
+## Instalação 
+**Linguagem**: <br>
+
+## Screenshots
+
+### Exercício 3 - ""
+
+**Nível do exercício:** 
+
+Para acessar a página do exercício [clique aqui]
+
+
+## Instalação 
+**Linguagem**: <br>
+
+## Screenshots
+
+### Exercício 4 - ""
+
+**Nível do exercício:** 
+
+Para acessar a página do exercício [clique aqui]
+
+## Instalação 
+**Linguagem**: 
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
+Rode os exercícios de acordo com a linguagem respectiva:
+  - Para o exercício em (editar), rode o comando:
+      
+  - Para os exercícios em (editar), rode o comando:
+       
+       
+       
+## Vídeo
 
