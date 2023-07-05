@@ -10,7 +10,7 @@
 | 19/0101792  |  Ana Carolina Rodrigues Leite |
 
 ## Sobre 
-Este projeto foi feito com a resolução de 4 exercícios abordando os temas de Programação Dinâmica, que incluem: (editar). Os exercícios foram retirados dos sites (editar) [Codeforces](https://codeforces.com/) e [Beecrowd](https://www.beecrowd.com.br/judge/pt/login).
+Este projeto foi feito com a resolução de 4 exercícios abordando os temas de Programação Dinâmica, que incluem: (editar). Os exercícios foram retirados dos sites (editar) [Codeforces](https://codeforces.com/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/login) e [LeetCode](https://leetcode.com/).
 
 ## Screenshots
 ### Exercicio 1 - ""
@@ -20,20 +20,12 @@ Este projeto foi feito com a resolução de 4 exercícios abordando os temas de 
 Para acessar a página do exercício [clique aqui]
 
 
-## Instalação 
-**Linguagem**: <br>
-
-
 ## Screenshots
 ### Exercicio 2 - ""
 
 **Nível do exercício:** 
 
 Para acessar a página do exercício [clique aqui]
-
-
-## Instalação 
-**Linguagem**: <br>
 
 ## Screenshots
 
@@ -42,10 +34,6 @@ Para acessar a página do exercício [clique aqui]
 **Nível do exercício:** 
 
 Para acessar a página do exercício [clique aqui]
-
-
-## Instalação 
-**Linguagem**: <br>
 
 ## Screenshots
 
@@ -57,6 +45,7 @@ Para acessar a página do exercício [clique aqui]
 
 ## Instalação 
 **Linguagem**: 
+**Linguagem**: 
 
 
 ## Uso 
@@ -64,7 +53,6 @@ Rode os exercícios de acordo com a linguagem respectiva:
   - Para o exercício em (editar), rode o comando:
       
   - Para os exercícios em (editar), rode o comando:
-       
        
        
 ## Vídeo
