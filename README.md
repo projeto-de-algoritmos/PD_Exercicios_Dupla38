@@ -17,17 +17,20 @@ Este projeto foi feito com a resolução de 4 exercícios abordando os temas de 
 
 **Nível do exercício:** Médio
 
-Esse exercício foi feito com o algoritmo de Belman-Ford. Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
+Esse exercício foi feito com o algoritmo de Belman-Ford. Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/).
 
 ![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla38/assets/49570180/2612eb2b-735a-408b-80a0-8bb0fe663b92)
 
 
 ## Screenshots
-### Exercicio 2 - ""
+### Exercicio 2 - "Profitable Schemes"
 
-**Nível do exercício:** 
+**Nível do exercício:** Díficil
 
-Para acessar a página do exercício [clique aqui]
+Esse exercício foi feito com recursão e a técnica da memorização. Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/profitable-schemes/description/).
+
+![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla38/assets/49570180/f8d37d64-9eec-49ba-be81-e94fe50996b0)
+
 
 ## Screenshots
 
@@ -55,6 +58,7 @@ Para acessar a página do exercício [clique aqui]
 ## Uso 
 Rode os exercícios de acordo com a linguagem respectiva:
   - Para o exercício em python, basta fazer uma cópia do código e rodar o comando:
+    
     ``
     python nome_programa.py
     ``
