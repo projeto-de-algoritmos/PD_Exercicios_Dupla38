@@ -13,11 +13,13 @@
 Este projeto foi feito com a resolução de 4 exercícios abordando os temas de Programação Dinâmica, que incluem: (editar). Os exercícios foram retirados dos sites (editar) [Codeforces](https://codeforces.com/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/login) e [LeetCode](https://leetcode.com/).
 
 ## Screenshots
-### Exercicio 1 - ""
+### Exercicio 1 - "Longest Subarray of 1's After Deleting One Element"
 
-**Nível do exercício:** 
+**Nível do exercício:** Médio
 
-Para acessar a página do exercício [clique aqui]
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
+
+![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla38/assets/49570180/2612eb2b-735a-408b-80a0-8bb0fe663b92)
 
 
 ## Screenshots
