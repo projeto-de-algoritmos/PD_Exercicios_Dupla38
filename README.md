@@ -17,7 +17,7 @@ Este projeto foi feito com a resolução de 4 exercícios abordando os temas de 
 
 **Nível do exercício:** Médio
 
-Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
+Esse exercício foi feito com o algoritmo de Belman-Ford. Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
 
 ![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla38/assets/49570180/2612eb2b-735a-408b-80a0-8bb0fe663b92)
 
@@ -45,14 +45,19 @@ Para acessar a página do exercício [clique aqui]
 
 Para acessar a página do exercício [clique aqui]
 
+
 ## Instalação 
-**Linguagem**: 
+
+**Linguagem**: Python
 **Linguagem**: 
 
 
 ## Uso 
 Rode os exercícios de acordo com a linguagem respectiva:
-  - Para o exercício em (editar), rode o comando:
+  - Para o exercício em python, basta fazer uma cópia do código e rodar o comando:
+    ``
+    python nome_programa.py
+    ``
       
   - Para os exercícios em (editar), rode o comando:
        
