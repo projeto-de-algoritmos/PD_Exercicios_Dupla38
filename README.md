@@ -56,6 +56,7 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 ## Instalação 
 
 **Linguagem**: Python
+
 **Linguagem**: C
 
 
