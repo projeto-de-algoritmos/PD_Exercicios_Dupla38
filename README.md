@@ -19,28 +19,29 @@ Este projeto foi feito com a resolução de 4 exercícios abordando os temas de 
 
 Esse exercício foi feito com o algoritmo de Belman-Ford. Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/).
 
+## Screenshots
+
 ![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla38/assets/49570180/2612eb2b-735a-408b-80a0-8bb0fe663b92)
 
-
-## Screenshots
 ### Exercicio 2 - "Profitable Schemes"
 
 **Nível do exercício:** Díficil
 
 Esse exercício foi feito com recursão e a técnica da memorização. Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/profitable-schemes/description/).
 
+## Screenshots
+
 ![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla38/assets/49570180/f8d37d64-9eec-49ba-be81-e94fe50996b0)
 
+### Exercício 3 - "Cortando Canos"
+
+**Nível do exercício:** Médio
+
+Para acessar a página do exercício [clique aqui](https://www.beecrowd.com.br/judge/pt/problems/view/1798).
 
 ## Screenshots
 
-### Exercício 3 - ""
-
-**Nível do exercício:** 
-
-Para acessar a página do exercício [clique aqui]
-
-## Screenshots
+![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla38/assets/80906504/b1efaf00-bd4b-40d0-80b8-5eb123760afa)
 
 ### Exercício 4 - ""
 
