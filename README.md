@@ -43,17 +43,20 @@ Para acessar a página do exercício [clique aqui](https://www.beecrowd.com.br/j
 
 ![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla38/assets/80906504/b1efaf00-bd4b-40d0-80b8-5eb123760afa)
 
-### Exercício 4 - ""
+### Exercício 4 - "Matriz de partição para soma máxima"
 
-**Nível do exercício:** 
+**Nível do exercício:** Médio
 
-Para acessar a página do exercício [clique aqui]
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/partition-array-for-maximum-sum/#_=_).
 
+## Screenshots
+
+![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla38/assets/80906504/2af184f1-52f0-4d96-a563-10ec0e39f214)
 
 ## Instalação 
 
 **Linguagem**: Python
-**Linguagem**: 
+**Linguagem**: C
 
 
 ## Uso 
@@ -64,7 +67,7 @@ Rode os exercícios de acordo com a linguagem respectiva:
     python nome_programa.py
     ``
       
-  - Para os exercícios em (editar), rode o comando:
+  - Para os exercícios em C, basta fazer uma cópia do código e colar o código da solução na área de submissão, selecione a linguagem C (leetcode) e então envie a submissão.
        
        
 ## Vídeo
