@@ -73,3 +73,10 @@ Rode os exercícios de acordo com a linguagem respectiva:
        
 ## Vídeo
 
+Parte 1: 
+https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla38/assets/80906504/8b282b1f-4dae-4cf5-ae54-982c21d2997b
+
+Parte 2:
+https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla38/assets/80906504/d8d13112-1173-493a-a5e5-ad1812e06ac6
+
+
