@@ -10,7 +10,7 @@
 | 19/0101792  |  Ana Carolina Rodrigues Leite |
 
 ## Sobre 
-Este projeto foi feito com a resolução de 4 exercícios abordando os temas de Programação Dinâmica, que incluem os algoritmos de:  Belman-Ford, recursão e a técnica da memorização. Os exercícios foram retirados dos sites (editar) [Codeforces](https://codeforces.com/), [Beecrowd](https://www.beecrowd.com.br/judge/pt/login) e [LeetCode](https://leetcode.com/).
+Este projeto foi feito com a resolução de 4 exercícios abordando os temas de Programação Dinâmica, que incluem os algoritmos de:  Belman-Ford, recursão e a técnica da memorização. Os exercícios foram retirados dos sites: [Beecrowd](https://www.beecrowd.com.br/judge/pt/login) e [LeetCode](https://leetcode.com/).
 
 ## Screenshots
 ### Exercicio 1 - "Longest Subarray of 1's After Deleting One Element"
